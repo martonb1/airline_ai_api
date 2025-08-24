@@ -1,0 +1,101 @@
+airline,route,flight_hours,energy_consumption_mwh,passenger_load,co2_emissions_tonnes
+EVA Air,international,8.5,85.0,300,60.0
+Starlux,international,6.0,60.0,250,42.0
+China Airlines,international,10.0,100.0,350,70.0
+Tigerair Taiwan,international,3.0,30.0,200,20.0
+EVA Air,international,9.0,90.0,320,63.0
+Starlux,international,5.5,55.0,240,38.0
+China Airlines,international,12.0,120.0,360,80.0
+Tigerair Taiwan,international,4.0,40.0,180,25.0
+EVA Air,international,7.0,70.0,280,50.0
+Starlux,international,2.5,25.0,150,15.0
+China Airlines,international,11.0,110.0,340,75.0
+Tigerair Taiwan,international,3.5,35.0,190,22.0
+EVA Air,domestic,1.0,10.0,120,8.0
+Starlux,international,4.5,45.0,210,30.0
+China Airlines,international,9.5,95.0,330,65.0
+Tigerair Taiwan,international,2.0,20.0,160,12.0
+EVA Air,international,8.0,80.0,310,58.0
+Starlux,international,5.0,50.0,230,35.0
+China Airlines,international,10.5,105.0,350,72.0
+Tigerair Taiwan,international,3.0,30.0,200,20.0
+EVA Air,international,6.5,65.0,270,45.0
+Starlux,international,4.0,40.0,220,28.0
+China Airlines,international,11.5,115.0,360,78.0
+Tigerair Taiwan,international,2.5,25.0,170,16.0
+EVA Air,international,7.5,75.0,290,53.0
+Starlux,international,5.5,55.0,240,38.0
+China Airlines,international,9.0,90.0,320,63.0
+Tigerair Taiwan,international,3.5,35.0,190,22.0
+EVA Air,international,8.0,80.0,310,58.0
+Starlux,international,4.5,45.0,210,30.0
+China Airlines,international,10.0,100.0,350,70.0
+Tigerair Taiwan,international,2.0,20.0,160,12.0
+EVA Air,international,6.0,60.0,250,42.0
+Starlux,international,5.0,50.0,230,35.0
+China Airlines,international,11.0,110.0,340,75.0
+Tigerair Taiwan,international,3.0,30.0,200,20.0
+EVA Air,domestic,1.5,15.0,140,10.0
+Starlux,international,4.0,40.0,220,28.0
+China Airlines,international,9.5,95.0,330,65.0
+Tigerair Taiwan,international,2.5,25.0,170,16.0
+EVA Air,international,7.0,70.0,280,50.0
+Starlux,international,5.5,55.0,240,38.0
+China Airlines,international,10.5,105.0,350,72.0
+Tigerair Taiwan,international,3.5,35.0,190,22.0
+EVA Air,international,8.0,80.0,310,58.0
+Starlux,international,4.5,45.0,210,30.0
+China Airlines,international,11.0,110.0,340,75.0
+Tigerair Taiwan,international,2.0,20.0,160,12.0
+EVA Air,international,6.0,60.0,250,42.0
+Starlux,international,5.0,50.0,230,35.0
+China Airlines,international,10.0,100.0,350,70.0
+Tigerair Taiwan,international,3.0,30.0,200,20.0
+China Airlines,international,9.5,95.0,330,65.0
+Tigerair Taiwan,international,2.5,25.0,170,16.0
+China Airlines,international,9.5,95.0,330,65.0
+Starlux,international,5.5,55.0,240,38.0
+Starlux,international,4.5,45.0,210,30.0
+Tigerair Taiwan,international,2.5,25.0,170,16.0
+China Airlines,international,11.0,110.0,340,75.0
+EVA Air,international,8.5,85.0,300,60.0
+EVA Air,international,8.5,85.0,300,60.0
+EVA Air,international,7.5,75.0,290,53.0
+EVA Air,international,9.0,90.0,320,63.0
+Tigerair Taiwan,international,3.5,35.0,190,22.0
+EVA Air,international,8.0,80.0,310,58.0
+Starlux,international,2.5,25.0,150,15.0
+Tigerair Taiwan,international,2.5,25.0,170,16.0
+Starlux,international,5.5,55.0,240,38.0
+EVA Air,international,9.0,90.0,320,63.0
+Tigerair Taiwan,international,3.0,30.0,200,20.0
+Tigerair Taiwan,international,3.0,30.0,200,20.0
+Starlux,international,5.5,55.0,240,38.0
+EVA Air,international,7.0,70.0,280,50.0
+Tigerair Taiwan,international,3.0,30.0,200,20.0
+Tigerair Taiwan,international,3.0,30.0,200,20.0
+China Airlines,international,10.0,100.0,350,70.0
+China Airlines,international,11.0,110.0,340,75.0
+EVA Air,international,8.0,80.0,310,58.0
+EVA Air,international,7.0,70.0,280,50.0
+Tigerair Taiwan,international,3.5,35.0,190,22.0
+China Airlines,international,10.0,100.0,350,70.0
+China Airlines,international,10.0,100.0,350,70.0
+Starlux,international,4.5,45.0,210,30.0
+China Airlines,international,10.0,100.0,350,70.0
+EVA Air,international,7.5,75.0,290,53.0
+Starlux,international,4.0,40.0,220,28.0
+Starlux,international,4.5,45.0,210,30.0
+EVA Air,international,9.0,90.0,320,63.0
+EVA Air,international,9.0,90.0,320,63.0
+Tigerair Taiwan,international,3.0,30.0,200,20.0
+China Airlines,international,11.0,110.0,340,75.0
+EVA Air,international,6.0,60.0,250,42.0
+Tigerair Taiwan,international,3.0,30.0,200,20.0
+Tigerair Taiwan,international,3.5,35.0,190,22.0
+EVA Air,international,7.5,75.0,290,53.0
+Starlux,international,4.0,40.0,220,28.0
+EVA Air,international,8.0,80.0,310,58.0
+Starlux,international,5.0,50.0,230,35.0
+China Airlines,international,9.5,95.0,330,65.0
+EVA Air,international,6.0,60.0,250,42.0
